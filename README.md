@@ -32,8 +32,9 @@ Stores all expense records securely in a MySQL database.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Dikshawelekar8/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/Dikshawelekar8/Expense-tracking-system-python-project.git
+   cd Expense-tracking-system-python-project
+
    ```
 1. **Install dependencies:**:   
    ```commandline
@@ -41,8 +42,9 @@ Stores all expense records securely in a MySQL database.
    ```
 1. **Run the FastAPI server:**:   
    ```commandline
-    uvicorn server.server:app --reload
+     uvicorn service_api:app --reload
    ```
 1. **Run the Streamlit app:**:   
    ```commandline
+
     streamlit run frontend/app.py
