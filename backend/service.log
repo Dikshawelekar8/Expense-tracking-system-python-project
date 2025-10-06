@@ -1,0 +1,340 @@
+2025-09-09 17:43:23,612 - db_helper - INFO - Fetch expenses for date: 2024-08-03
+2025-09-09 17:43:23,616 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-09-05 end: 2024-09-30
+2025-09-09 19:53:54,199 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:30:21,035 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:33:46,802 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:33:51,366 - db_helper - INFO - Fetch expenses for date: 2024-08-20
+2025-09-10 11:33:57,911 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:35:36,733 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:35:40,397 - db_helper - INFO - Fetch expenses for date: 2024-08-02
+2025-09-10 11:53:59,432 - db_helper - INFO - Fetch expenses for date: 2024-08-02
+2025-09-10 11:54:09,350 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:54:37,022 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 11:54:41,613 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:01:02,146 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:20:48,351 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:22:35,980 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:23:42,845 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:24:28,809 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:28:33,434 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:35:13,507 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:42:13,143 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:44:02,087 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:45:01,762 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:46:58,102 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:51:40,990 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 12:55:01,836 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 13:08:01,456 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 13:08:46,789 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-10 13:08:54,772 - db_helper - INFO - Fetch expenses for date: 2024-08-02
+2025-09-10 13:15:06,102 - db_helper - INFO - Fetch expenses for date: 2024-08-07
+2025-09-10 13:16:10,167 - db_helper - INFO - Fetch expenses for date: 2024-08-07
+2025-09-10 13:16:26,145 - db_helper - INFO - Fetch expenses for date: 2024-08-07
+2025-09-10 13:23:21,645 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:30:11,617 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:32:59,507 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:33:37,512 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:46:19,409 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:46:27,598 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:46:47,741 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:47:15,623 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:47:34,042 - db_helper - INFO - Fetch expenses for date: 2024-10-31
+2025-09-10 13:47:41,441 - db_helper - INFO - Fetch expenses for date: 2024-10-31
+2025-09-10 13:48:08,495 - db_helper - INFO - Fetch expenses for date: 2024-10-31
+2025-09-10 13:52:31,072 - db_helper - INFO - Fetch expenses for date: 2024-10-31
+2025-09-10 13:55:27,079 - db_helper - INFO - Fetch expenses for date: 2024-10-31
+2025-09-10 13:55:35,171 - db_helper - INFO - Fetch expenses for date: 2024-10-03
+2025-09-10 13:55:46,506 - db_helper - INFO - Fetch expenses for date: 2024-10-25
+2025-09-10 13:56:01,251 - db_helper - INFO - Fetch expenses for date: 2024-10-25
+2025-09-10 13:58:15,590 - db_helper - INFO - Fetch expenses for date: 2024-10-25
+2025-09-10 13:58:19,259 - db_helper - INFO - Fetch expenses for date: 2024-10-25
+2025-09-10 14:03:25,647 - db_helper - INFO - Fetch expenses for date: 2024-10-25
+2025-09-10 14:03:35,576 - db_helper - INFO - Fetch expenses for date: 2024-10-25
+2025-09-11 11:59:16,171 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-11 11:59:23,766 - db_helper - INFO - Fetch expenses for date: 2024-08-03
+2025-09-11 11:59:30,446 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 11:59:52,621 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 12:05:55,470 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 12:11:06,379 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 12:11:12,048 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 12:11:14,236 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 12:11:14,253 - db_helper - INFO - Insert expenses for date: 2024-08-11 with amount: 10.0, category: Food and notes: Maggi
+2025-09-11 22:42:57,541 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 22:42:59,924 - db_helper - INFO - Fetch expenses for date: 2024-08-11
+2025-09-11 22:42:59,985 - db_helper - INFO - Insert expenses for date: 2024-08-11 with amount: 10.0, category: Food and notes: Maggi
+2025-09-11 22:43:00,002 - db_helper - INFO - Insert expenses for date: 2024-08-11 with amount: 457.0, category: Shopping and notes: Got dress
+2025-09-12 12:57:42,248 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 12:57:49,562 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 12:58:52,570 - db_helper - INFO - Fetch expenses dates summary with start date: 2025-09-01 end: 2025-09-30
+2025-09-12 12:59:10,645 - db_helper - INFO - Fetch expenses dates summary with start date: 2025-08-01 end: 2025-08-30
+2025-09-12 12:59:28,255 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 13:29:23,371 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:51:24,897 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:51:33,711 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:52:09,282 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:53:37,882 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:53:43,749 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:53:44,950 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:54:38,115 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:54:41,744 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:55:39,624 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:55:43,655 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 14:55:45,761 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:04:59,890 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:05:04,938 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:05:07,040 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:07:13,943 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:07:18,237 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:07:20,318 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:08:45,480 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:08:49,489 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:08:51,568 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:10:32,431 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:10:36,294 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:10:38,375 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:11:11,463 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:11:15,442 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:11:17,527 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:12:12,408 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:12:16,700 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:12:18,778 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-12 15:13:30,053 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:13:34,087 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-12 15:13:36,170 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 17:03:04,245 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 17:03:18,081 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 17:03:55,147 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 17:03:57,255 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 17:03:57,287 - db_helper - INFO - Insert expenses for date: 2024-08-31 with amount: 1200.0, category: Shopping and notes: Got new jeans
+2025-09-16 17:04:06,465 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 17:04:08,594 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 22:18:17,952 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:18:20,261 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 22:18:26,829 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:18:38,354 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:18:41,862 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:18:44,008 - db_helper - INFO - Fetch expenses dates summary with start date: 2025-07-01 end: 2024-05-31
+2025-09-16 22:18:57,623 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:18:59,324 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:19:01,414 - db_helper - INFO - Fetch expenses dates summary with start date: 2025-03-01 end: 2024-05-31
+2025-09-16 22:19:08,382 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:19:10,526 - db_helper - INFO - Fetch expenses dates summary with start date: 2025-03-01 end: 2024-05-31
+2025-09-16 22:23:20,079 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:23:42,980 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:23:53,903 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:24:00,062 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:24:01,301 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:24:03,399 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-10-01 end: 2024-10-31
+2025-09-16 22:24:54,417 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:25:00,351 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:25:01,824 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:25:03,952 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:26:11,629 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:26:15,948 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:26:18,081 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:27:11,714 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:27:13,829 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:27:44,134 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:27:48,647 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:27:50,746 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:29:09,699 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:29:13,816 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:29:15,948 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:30:42,595 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:30:46,897 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:30:49,007 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:32:39,168 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:32:43,159 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:32:45,260 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-31
+2025-09-16 22:37:02,404 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:37:08,138 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:37:09,566 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:39:24,303 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:39:28,499 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:39:30,628 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 22:56:51,172 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:56:55,487 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 22:56:57,579 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 22:57:19,359 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:13:30,649 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:13:34,242 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:13:36,358 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 23:16:21,948 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:16:25,865 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:16:27,987 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 23:18:11,115 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:18:15,245 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:18:17,340 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 23:18:54,950 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:18:58,776 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:19:00,877 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-16 23:21:04,682 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:21:14,878 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:21:36,977 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:22:12,130 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:22:28,779 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:22:45,808 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:29:00,035 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:29:07,835 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:30:48,811 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:33:36,636 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:34:24,683 - db_helper - INFO - Fetch expenses for date: 2025-02-01
+2025-09-16 23:34:42,090 - db_helper - INFO - Fetch expenses for date: 2025-02-01
+2025-09-16 23:34:53,655 - db_helper - INFO - Fetch expenses for date: 2025-01-01
+2025-09-16 23:35:06,949 - db_helper - INFO - Fetch expenses for date: 2025-01-01
+2025-09-16 23:35:50,274 - db_helper - INFO - Fetch expenses for date: 2025-08-01
+2025-09-16 23:36:14,543 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-16 23:36:24,542 - db_helper - INFO - Fetch expenses for date: 2024-08-02
+2025-09-16 23:36:35,048 - db_helper - INFO - Fetch expenses for date: 2024-08-22
+2025-09-16 23:36:40,426 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:36:56,932 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:36:59,014 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:36:59,075 - db_helper - INFO - Insert expenses for date: 2024-08-31 with amount: 1200.0, category: Shopping and notes: Got new jeans
+2025-09-16 23:37:25,048 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:37:27,139 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:37:27,173 - db_helper - INFO - Insert expenses for date: 2024-08-31 with amount: 668.0, category: Entertainment and notes: Watched movie
+2025-09-16 23:37:31,843 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:38:04,411 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:39:46,470 - db_helper - INFO - Fetch expenses for date: 2024-08-31
+2025-09-16 23:40:07,114 - db_helper - INFO - Fetch expenses for date: 2024-11-29
+2025-09-16 23:41:50,655 - db_helper - INFO - Fetch expenses for date: 2024-11-29
+2025-09-16 23:43:45,066 - db_helper - INFO - Fetch expenses for date: 2024-11-29
+2025-09-16 23:43:47,168 - db_helper - INFO - Fetch expenses for date: 2024-11-29
+2025-09-16 23:43:47,191 - db_helper - INFO - Insert expenses for date: 2024-11-29 with amount: 5768.0, category: Rent and notes: Rent for november
+2025-09-16 23:43:47,196 - db_helper - INFO - Insert expenses for date: 2024-11-29 with amount: 3.0, category: None and notes: 
+2025-09-16 23:43:54,400 - db_helper - INFO - Fetch expenses for date: 2024-11-29
+2025-09-17 11:27:48,514 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 11:28:23,964 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 11:28:26,136 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 16:00:10,959 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:00:16,803 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:00:18,861 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 16:01:53,211 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:02:04,397 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:02:06,477 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 16:02:52,240 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:02:53,608 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:02:55,687 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 16:07:28,078 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:07:37,085 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 16:07:39,163 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 16:11:37,050 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:36:29,757 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:36:41,540 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:36:43,677 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 17:40:45,358 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:40:58,168 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:41:00,283 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 17:41:10,779 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:41:17,733 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 17:41:19,870 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 19:11:23,767 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 19:11:26,970 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 19:11:31,770 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 19:11:33,880 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 19:11:56,938 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 19:12:00,117 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 19:12:02,230 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 22:03:34,384 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 22:03:52,003 - db_helper - INFO - Fetch expenses for date: 2024-08-05
+2025-09-17 22:03:57,693 - db_helper - INFO - Fetch expenses for date: 2024-08-06
+2025-09-17 22:03:59,376 - db_helper - INFO - Fetch expenses for date: 2024-08-06
+2025-09-17 22:04:05,575 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:04:34,275 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:04:36,381 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:04:36,452 - db_helper - INFO - Insert expenses for date: 2024-08-15 with amount: 10.0, category: Shopping and notes: Bought potatoes
+2025-09-17 22:04:36,467 - db_helper - INFO - Insert expenses for date: 2024-08-15 with amount: 10050.0, category: Rent and notes: Monthly rent
+2025-09-17 22:04:40,315 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:04:42,422 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:04:42,440 - db_helper - INFO - Insert expenses for date: 2024-08-15 with amount: 10.0, category: Shopping and notes: Bought potatoes
+2025-09-17 22:04:42,454 - db_helper - INFO - Insert expenses for date: 2024-08-15 with amount: 10050.0, category: Rent and notes: Monthly rent
+2025-09-17 22:04:50,089 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:04:52,218 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 22:05:08,151 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:05:09,614 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:05:11,722 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 22:13:29,795 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:13:35,146 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:13:37,280 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 22:18:22,229 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:18:26,671 - db_helper - INFO - Fetch expenses for date: 2024-08-15
+2025-09-17 22:18:28,805 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-11-30
+2025-09-17 22:28:08,334 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 22:28:14,746 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 22:28:16,873 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 22:28:24,186 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 22:28:26,310 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 22:33:50,146 - db_helper - INFO - Fetch expenses dates for Months with start date: 2025-09-17 end: 2025-09-17
+2025-09-17 22:33:55,220 - db_helper - INFO - Fetch expenses dates for Months with start date: 2025-09-17 end: 2025-09-17
+2025-09-17 22:36:23,673 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 22:36:28,213 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-17 22:36:30,343 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-17 22:39:51,258 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 09:45:54,875 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:46:05,289 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:46:07,436 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 09:50:14,284 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 09:51:45,261 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:51:49,960 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:51:52,087 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 09:52:26,583 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:52:28,671 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 09:52:35,553 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:52:39,033 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 09:52:41,142 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-11-30
+2025-09-18 09:53:55,003 - db_helper - INFO - Fetch expenses dates for Months with start date: 2025-09-18 end: 2025-09-18
+2025-09-18 10:01:26,587 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 10:11:38,017 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 10:11:44,706 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 10:11:46,803 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-09-18 10:11:56,248 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-09-18 10:11:58,376 - db_helper - INFO - Fetch expenses dates for Months with start date: 2024-08-01 end: 2024-11-30
+2025-09-18 10:22:52,860 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:16:00,561 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:16:28,782 - db_helper - INFO - Fetch expenses for date: 2025-09-02
+2025-10-06 18:16:47,294 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:18:43,200 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:18:45,312 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-08-01 end: 2024-08-30
+2025-10-06 18:19:37,357 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:19:48,949 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:19:53,709 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:19:55,836 - db_helper - INFO - Fetch expenses dates summary with start date: 2024-11-01 end: 2024-12-31
+2025-10-06 18:20:25,855 - db_helper - INFO - Fetch expenses for date: 2025-09-01
+2025-10-06 18:22:01,650 - db_helper - INFO - Fetch expenses for date: 2025-09-01
+2025-10-06 18:22:03,751 - db_helper - INFO - Fetch expenses for date: 2025-09-01
+2025-10-06 18:22:03,786 - db_helper - INFO - Insert expenses for date: 2025-09-01 with amount: 1580.0, category: Rent and notes: Monthly rent
+2025-10-06 18:22:03,836 - db_helper - INFO - Insert expenses for date: 2025-09-01 with amount: 457.0, category: Food and notes: breakfast 
+2025-10-06 18:22:03,853 - db_helper - INFO - Insert expenses for date: 2025-09-01 with amount: 6978.0, category: Shopping and notes: Brought cloths
+2025-10-06 18:22:03,871 - db_helper - INFO - Insert expenses for date: 2025-09-01 with amount: 5687.0, category: Other and notes: shopping for pooja
+2025-10-06 18:22:07,814 - db_helper - INFO - Fetch expenses for date: 2025-09-02
+2025-10-06 18:23:04,903 - db_helper - INFO - Fetch expenses for date: 2025-09-02
+2025-10-06 18:23:07,047 - db_helper - INFO - Fetch expenses for date: 2025-09-02
+2025-10-06 18:23:07,054 - db_helper - INFO - Insert expenses for date: 2025-09-02 with amount: 1580.0, category: Rent and notes: Monthly rent
+2025-10-06 18:23:07,089 - db_helper - INFO - Insert expenses for date: 2025-09-02 with amount: 457.0, category: Food and notes: dinner 
+2025-10-06 18:23:07,110 - db_helper - INFO - Insert expenses for date: 2025-09-02 with amount: 3452.0, category: Shopping and notes: Got heels
+2025-10-06 18:23:07,110 - db_helper - INFO - Insert expenses for date: 2025-09-02 with amount: 1000.0, category: Other and notes: surprise gift
+2025-10-06 18:23:11,167 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 18:23:22,536 - db_helper - INFO - Fetch expenses for date: 2025-11-01
+2025-10-06 18:23:36,100 - db_helper - INFO - Fetch expenses for date: 2025-09-01
+2025-10-06 18:23:42,861 - db_helper - INFO - Fetch expenses for date: 2025-09-02
+2025-10-06 18:24:23,080 - db_helper - INFO - Fetch expenses for date: 2025-09-05
+2025-10-06 18:24:40,054 - db_helper - INFO - Fetch expenses for date: 2025-09-05
+2025-10-06 18:24:42,183 - db_helper - INFO - Fetch expenses for date: 2025-09-05
+2025-10-06 18:24:42,191 - db_helper - INFO - Insert expenses for date: 2025-09-05 with amount: 8000.0, category: Rent and notes: EMI for Car
+2025-10-06 18:24:50,093 - db_helper - INFO - Fetch expenses for date: 2025-10-01
+2025-10-06 18:25:31,342 - db_helper - INFO - Fetch expenses for date: 2025-10-01
+2025-10-06 18:25:33,480 - db_helper - INFO - Fetch expenses for date: 2025-10-01
+2025-10-06 18:25:33,495 - db_helper - INFO - Insert expenses for date: 2025-10-01 with amount: 1500.0, category: Rent and notes: monthly rent
+2025-10-06 18:25:33,516 - db_helper - INFO - Insert expenses for date: 2025-10-01 with amount: 9300.0, category: Shopping and notes: Got gym cloths
+2025-10-06 18:25:47,783 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:26:37,407 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:26:39,540 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:26:39,576 - db_helper - INFO - Insert expenses for date: 2025-10-03 with amount: 800.0, category: Entertainment and notes: Movie
+2025-10-06 18:27:02,439 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:27:12,448 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:27:14,811 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:27:16,928 - db_helper - INFO - Fetch expenses dates summary with start date: 2025-09-01 end: 2025-10-31
+2025-10-06 18:30:08,816 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 18:30:10,239 - db_helper - INFO - Fetch expenses for date: 2025-10-03
+2025-10-06 19:51:28,238 - db_helper - INFO - Fetch expenses for date: 2024-08-01
+2025-10-06 19:51:42,386 - db_helper - INFO - Fetch expenses for date: 2025-10-01
